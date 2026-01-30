@@ -136,7 +136,7 @@ Deploy options:
 **Vercel**
 - Import repository and deploy
 
-Live URL: Will be added after deployment
+Live URL: <a href='http://opensourcerepofinder.me/Cohort_ResumePage/'  target='_blank' >Click here</a>
 
 ## Contact
 
