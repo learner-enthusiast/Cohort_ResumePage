@@ -1,5 +1,13 @@
 # Arnab Samanta - Portfolio Website
 
+## Screenshots
+
+### Full Page
+The complete portfolio displays all sections in a clean, hierarchical structure.
+
+![Portfolio Website Screenshot](https://res.cloudinary.com/dxfdxwvlm/image/upload/v1769839343/opensourcerepofinder.me_Cohort_ResumePage__jydxim.png)
+
+
 A simple HTML portfolio website showcasing my professional experience, skills, projects, and contact information.
 
 ## Overview
